@@ -35,6 +35,14 @@ Ongoing wishlist of ideas for tools that help with development and testing of th
 
 https://github.com/ethpandaops/tooling-wishlist
 
+### Stateless Consensus wishlist
+
+By Han
+
+Ongoing wishlist of ideas regarding Ethereum's state.
+
+https://github.com/stateless-consensus/wishlist
+
 ### RIG Opened Problems
 
 By Barnabé Monnot
