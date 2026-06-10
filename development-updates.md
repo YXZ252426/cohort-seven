@@ -13,7 +13,9 @@ Phase one is the very beginning of the cohort. The first few weeks are dedicated
 | ------------------------------------------ | --------------------------------------------------------- | ------ | ------ |
 | [Bankat](https://github.com/mananuf/) | [Update 0](https://hackmd.io/@manbankat/ryn-CDrbfx) |        |        |
 | [Mario](https://github.com/taxmeifyoucan/) | [ Update 0](https://notes.ethereum.org/@MarioHavel/week0) |        |        |
-| [Conall](https://github.com/XRS-001/) | [ Update 0](https://docs.fileverse.io/d/02001110001b#k=0YDBXHva0sJIlCC108YBhFhNP_4PFWtxqoGaQOqcFhM) |        |         |                                        
+| [Conall](https://github.com/XRS-001/) | [ Update 0](https://docs.fileverse.io/d/02001110001b#k=0YDBXHva0sJIlCC108YBhFhNP_4PFWtxqoGaQOqcFhM) |        |         |  
+| [Sagar](https://www.github.com/SoarinSkySagar) | [Update 0](https://hackmd.io/@5d9IS104QYmhm-pr1ypNJg/Bk3xoWQbGg) |        |        |
+
 
 ## Phase 2: Deep dive
 
