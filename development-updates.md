@@ -19,7 +19,7 @@ Phase one is the very beginning of the cohort. The first few weeks are dedicated
 | [Conall](https://github.com/XRS-001/)           | [ Update 0](https://docs.fileverse.io/d/02001110001b#k=0YDBXHva0sJIlCC108YBhFhNP_4PFWtxqoGaQOqcFhM) |        |        |
 | [Cristian](https://github.com/conache/)         | [ Update 0](https://hackmd.io/@conache/rywURItWzx)                                                  |        |        |
 | [Ifeoluwa](https://github.com/owanikin)         |                                                   | [ Update 1](https://hackmd.io/@ZpBFaS-NSO-5Xkdm4jwolg/BJO7iYpWMx)       |        |
-| [Daniel](https://github.com/perfogic)           | [Update 0](https://hackmd.io/@rY6uGs23RIKpNYTQc4mY_g/SkvmzE0Zfe)                                    | [Update 1](https://hackmd.io/@rY6uGs23RIKpNYTQc4mY_g/HJKmk8WGze) |        |
+| [Daniel](https://github.com/perfogic)           | [Update 0](https://hackmd.io/@perfogic/SkvmzE0Zfe)                                    | [Update 1](https://hackmd.io/@perfogic/HJKmk8WGze) |        |
 | [Jack CC](https://github.com/JackCC703/)        | [Update 0](https://hackmd.io/@jackcc/epf7-week0)                                                    |        |        |
 | [Jeff](https://www.github.com/jeffoodchain)     | [Update 0](https://hackmd.io/BEM-xj5dRBeh3MGHYIvYeQ)                                                |        |        |
 | [Josh](https://github.com/JO-OLADEJI)           | [Update 0](https://hackmd.io/@hiOAMmPVSB6rKJF3A0TJIA/By6GJsnZGx)                                    |        |        |
