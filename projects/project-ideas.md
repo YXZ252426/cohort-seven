@@ -318,3 +318,37 @@ By Nico Flaig (@nflaig)
 By Nico Flaig (@nflaig)
 
 This project is about implementing an in-protocol builder (`lodestar builder`) under EIP-7732 for Glamsterdam. It will submit bids to p2p every slot based on payloads it produces locally with vanilla EL software (e.g. Nethermind or Ethrex), publish the payloads if it wins the auction and pays the proposer via trustless payment. The primary purpose of this project is to explore the specs and find gaps that need to be resolved to cleanly implement a CL client acting as a builder.
+
+### Etheorem: Ethereum in Lean 4
+
+By Leo Lara (https://steel.ethereum.foundation/team/)
+
+Etheorem is a personal, independent project to write Ethereum's specifications in Lean 4, so the spec is executable, machine-checkable, and usable as a model for generating tests. It is not an Ethereum Foundation deliverable. The work started with the consensus layer and now covers the Fulu and Gloas forks: SSZ serialization, beacon-chain state transitions, and fork choice. The state transitions and fork choice pass the official consensus-spec-tests, pinned at v1.7.0-alpha.10, with more than 2188 cases passing so far. That coverage comes from conformance testing. Machine-checked proofs exist only in the serialization library for now.
+
+The serialization library, SizzLean, carries three machine-checked theorems on its basic, fixed-size cut of SSZ types: serialization roundtrip, non-malleability, and an encoded-size bound. Cryptography is written in pure Lean where that is practical, with a NIST CAVP-validated SHA-256 and a Poseidon2 implementation, and uses FFI bindings to blst and c-kzg-4844 where reusing audited C is the sensible choice. This is an early-stage, experimental project built by one developer.
+
+What makes it a good fellowship project is the open ground. As of mid-2026 I could not find a public Lean 4 formalization of the consensus-layer spec. Earlier formal-methods work in other tools, Isabelle, Coq, Dafny, and K, covered parts of older protocol versions. The adjacent Lean 4 ecosystem has matured enough to build on, with Nethermind's EVMYulLean for the EVM and the Verified-zkEVM crypto stack. The work touches the real protocol. It offers entry points at very different levels. The SSZ and conformance-tooling items are good places to start. The proof and crypto items assume some comfort with Lean 4 and Mathlib. The longer-term hope is to extend coverage to more of the protocol, working alongside the existing Lean 4 efforts on execution and on the Lean (Beam) consensus spec.
+
+Directions a fellow could take, from the most accessible to the more open-ended:
+
+- **Universal SSZ proofs.** Extend the three core theorems from the basic, fixed-size cut to the full set of supported SSZ types, including variable-size containers and bitlists.
+- **Conformance and test tooling.** Grow the test harnesses and the pyspec conformance bridge, and help split the development monorepo into per-package publication repos.
+- **Cryptography.** Strengthen the FFI bindings, blst and c-kzg, and the pure-Lean reference implementations, SHA-256 and Poseidon2, building on the Verified-zkEVM crypto stack (ArkLib, VCV-io) where it fits, and work toward a native BLS12-381 instantiation.
+- **Execution-layer specs.** Bring execution semantics into the same Lean 4 model, building on and complementing the existing EVM-in-Lean work at Nethermind.
+- **Lean (Beam) consensus spec.** Mechanize the Lean (Beam) consensus protocol, today specified in Python by the EF Lean Consensus team, inside the Lean 4 prover, in coordination with that team. The two senses of Lean are unrelated: Lean (Beam) is the minimal consensus protocol, and Lean 4 is the theorem prover.
+- **Test-vector generation from the spec.** Use the Lean specification as an executable model that generates conformance test vectors, so one artifact serves as spec, implementation, and test oracle.
+- **XMSS signatures.** Implement the XMSS post-quantum signature scheme in Lean 4.
+- **Networking and P2P.** Model the gossip and request/response layers.
+
+Other parts of Ethereum in Lean 4 are welcome too. If you have an idea that fits the direction, open a discussion.
+
+A fellow can expect mentorship from someone working day to day on Ethereum consensus and execution spec testing, on a project that is run separately from that work.
+
+Related work and links:
+
+- Repository and contribution guide: https://github.com/etheorem/etheorem (start with CONTRIBUTING.md)
+- Lean 4: https://lean-lang.org
+- Ethereum consensus-specs: https://github.com/ethereum/consensus-specs
+- Adjacent Lean 4 efforts: Nethermind EVMYulLean, Verified-zkEVM (ArkLib, VCV-io)
+
+Contact: Leo Lara, @leolarav on X, or open an issue or discussion on the repository.
