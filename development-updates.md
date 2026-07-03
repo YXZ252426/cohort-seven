@@ -31,7 +31,7 @@ Phase one is the very beginning of the cohort. The first few weeks are dedicated
 | [Josh](https://github.com/JO-OLADEJI)                | [Update 0](https://hackmd.io/@hiOAMmPVSB6rKJF3A0TJIA/By6GJsnZGx)                                    |                                                                                                |        |
 | [Kapil](https://github.com/Kapil-K-Kathiriya)        |                                                                                                     | [Update 1](https://hackmd.io/@kapilkmr/rJPl3lizMx)                                             |        |
 | [Keshav](https://www.github.com/keshavsharma25)      | [Update 0](https://hackmd.io/@keshav0x/SJpIr3UWfl)                                                  | [Update 1](https://hackmd.io/@keshav0x/r1r4b8Uffx)                                             | [Update 2](https://hackmd.io/@keshav0x/BJf9JJ0Mfl) |
-| [Kimi](https://github.com/KimiWu123)                 | [Update 0](https://hackmd.io/@kimiwu/Bk3E5QRWzl)                                                    | [Update 1](https://hackmd.io/@kimiwu/rJ432fGzfx)                                               |        |
+| [Kimi](https://github.com/KimiWu123)                 | [Update 0](https://hackmd.io/@kimiwu/Bk3E5QRWzl)                                                    | [Update 1](https://hackmd.io/@kimiwu/rJ432fGzfx)                                               | [Update 2](https://hackmd.io/@kimiwu/HJnOzh2MGg)       | 
 | [Kris](https://github.com/krisoshea-eth/)            | [Update 0](https://hackmd.io/@krisos/rJZ18M_-fg)                                                    | [Update 1](https://hackmd.io/@krisos/S1jkvupWfx)                                               | [Update 2](https://hackmd.io/@krisos/SJ7J9cRffx) |
 | [Mario](https://github.com/taxmeifyoucan/)           | [ Update 0](https://notes.ethereum.org/@MarioHavel/week0)                                           |                                                                                                |        |
 | [Marko](https://github.com/markolazic01)             | [Update 0](https://hackmd.io/@lqzic/week-0-update)                                                  | [Update 1](https://hackmd.io/@lqzic/week-1-update)                                             | [Update 2](https://hackmd.io/@lqzic/week-2-update)       |
@@ -63,7 +63,7 @@ With the gained insight into the protocol, the following weeks serve as a deep d
 
 | Name/GH | Week 3 | Week 4 | Week 5 | Project Proposal |
 | ------- | ------ | ------ | ------ | ---------------- |
-|         |        |        |        |                  |
+|  [Kimi](https://github.com/KimiWu123)  |  [Update 3](https://hackmd.io/@kimiwu/r1rDNxSmMx)      |        |        |                  |
 
 ## Phase 3: Execution
 
