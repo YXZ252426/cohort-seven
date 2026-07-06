@@ -96,7 +96,7 @@ The actual project development is the main part of the program. Post your regula
 | [Kimi](https://github.com/KimiWu123)                 | [Update 3](https://hackmd.io/@kimiwu/r1rDNxSmMx) |        |        |                  |
 | [Kris](https://github.com/krisoshea-eth/)            |                                                  |        |        |                  |
 | [Mario](https://github.com/taxmeifyoucan/)           |                                                  |        |        |                  |
-| [Marko](https://github.com/markolazic01)             |                                                  |        |        |                  |
+| [Marko](https://github.com/markolazic01)             | [Update 3](https://hackmd.io/@lqzic/week-3-update) |        |        |                  |
 | [Mary](https://github.com/maryodior)                 |                                                  |        |        |                  |
 | [Meek](https://github.com/mmsaki)                    |                                                  |        |        |                  |
 | [Mohit](https://github.com/groverInnovate)           |                                                  |        |        |                  |
