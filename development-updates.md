@@ -107,7 +107,7 @@ The actual project development is the main part of the program. Post your regula
 | [Ray](https://github.com/rayjun)                     |                                                  |        |        |                  |
 | [Richard](https://github.com/richardgreg)            |                                                  |        |        |                  |
 | [Ritesh](https://github.com/Dyslex7c)                |                                                  |        |        |                  |
-| [Roheemah](https://github.com/AbolareRoheemah)       |                                                  |        |        |                  |
+| [Roheemah](https://github.com/AbolareRoheemah)       | [Update 3](https://hackmd.io/@rhorheeymarh/HJaGVJYQMe) |        |        |                  |
 | [Sagar](https://www.github.com/SoarinSkySagar)       |                                                  |        |        |                  |
 | [Sahil](https://github.com/Sahilgill24)              |                                                  |        |        |                  |
 | [Sameer](https://github.com/SamAg19)                 |                                                  |        |        |                  |
